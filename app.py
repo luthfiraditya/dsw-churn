@@ -26,7 +26,7 @@ def predict_churn(input_data):
 
 
 def main():
-    st.title("Telecom Churn Prediction")
+    st.title("Telecom Churn Prediction Markicobss")
     st.write("Enter the customer details below to predict churn.")
 
     # Create input fields for user input
